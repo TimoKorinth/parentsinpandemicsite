@@ -118,6 +118,9 @@ iframe {
 	height: auto;
 	padding: 24px 15px
 }
+.navigation .navbar-brand img {
+	width: 150px;
+}
 .navigation .button-right li a {
 	padding: 17px 35px;
 	color: #fff;
@@ -694,6 +697,9 @@ a:hover {
 .footer-section-back {
 	padding-top: 250px;
 	padding-bottom: 50px
+}
+.footer-logo img {
+	width: 250px;
 }
 /* -----------------------------------
 ** End Index
