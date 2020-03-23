@@ -806,7 +806,7 @@ a:hover {
 	transition: 0.4s;
 	background: transparent;
 }
-.main-navigation .menu-left li a: {
+.main-navigation .menu-left li a {
 	color: #575a73!important;
 }
 .hr-heading {
