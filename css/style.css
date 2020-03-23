@@ -47,6 +47,12 @@ h4 {
 	background: #20082a!important;
 	color: white;
 }
+.navbar.scroll-nav .navbar-brand img {
+	width: 100px;
+}
+.navbar.scroll-nav .navbar-brand {
+	padding: 15px;
+}
 iframe {
 	height: 600px;
 	width: 100%
