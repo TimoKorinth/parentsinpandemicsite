@@ -508,118 +508,63 @@ a:hover {
 	margin-bottom: 40px
 }
 .img-hover1 {
-	background: url(../image/mobile.png);
-	height: 60px;
-	background-repeat: no-repeat;
-	background-position: 50%;
+	background: url("../img/icon_kinderzi.png");
 }
 .feature-text:hover .img-hover1 {
-	background: url(../image/mobile-hover.png);
-	height: 60px;
-	cursor: pointer;
-	background-repeat: no-repeat;
-	background-position: 50%;
+	background: url("../img/icon_kinderzi_hover.png");
 }
 .img-hover2 {
-	background: url(../image/hand.png);
-	height: 60px;
-	background-repeat: no-repeat;
-	background-position: 50%;
+	background: url("../img/icon_oertchen.png");
 	margin-bottom: 30px;
 }
 .feature-text:hover .img-hover2 {
-	background: url(../image/hand-hover.png);
-	height: 60px;
-	cursor: pointer;
-	background-repeat: no-repeat;
-	background-position: 50%;
+	background: url("../img/icon_oertchen_hover.png");
 }
 .img-hover3 {
-	background: url(../image/desktop.png);
-	height: 60px;
-	cursor: pointer;
-	background-repeat: no-repeat;
-	background-position: 50%;
+	background: url("../img/icon_kueche.png");
 }
 .feature-text:hover .img-hover3 {
-	background: url(../image/desktop-hover.png);
-	height: 60px;
-	cursor: pointer;
-	background-repeat: no-repeat;
-	background-position: 50%;
+	background: url("../img/icon_kueche_hover.png");
 }
 .img-hover4 {
-	background: url(../image/girl.png);
-	height: 60px;
-	cursor: pointer;
-	background-repeat: no-repeat;
-	background-position: 50%;
+	background: url("../img/icon_balkonien.png");
 }
 .feature-text:hover .img-hover4 {
-	background: url(../image/girl-hover2.png);
-	height: 60px;
-	cursor: pointer;
-	background-repeat: no-repeat;
-	background-position: 50%;
+	background: url("../img/icon_balkonien_hover.png");
 	margin-bottom: 30px;
 }
 .img-hover5 {
-	background: url(../image/mobile-lock.png);
-	height: 60px;
-	cursor: pointer;
-	background-repeat: no-repeat;
-	background-position: 50%;
+	background: url("../img/icon_tuer.png");
 }
 .feature-text:hover .img-hover5 {
-	background: url(../image/mobile-lock-hover.png);
-	height: 60px;
-	cursor: pointer;
-	background-repeat: no-repeat;
-	background-position: 50%;
+	background: url("../img/icon_tuer_hover.png");
 }
 .img-hover6 {
-	background: url(../image/pin-map.png);
-	height: 60px;
-	cursor: pointer;
-	background-repeat: no-repeat;
-	background-position: 50%;
+	background: url("../img/icon_feueral.png");
 	margin-bottom: 30px;
 }
 .feature-text:hover .img-hover6 {
-	background: url(../image/pin-map-hover6.png);
-	height: 60px;
-	cursor: pointer;
-	background-repeat: no-repeat;
-	background-position: 50%;
+	background: url("../img/icon_feueral_hover.png");
 }
 .img-hover7 {
-	background: url(../image/person.png);
-	height: 60px;
-	cursor: pointer;
-	background-repeat: no-repeat;
-	background-position: 50%;
+	background: url("../img/icon_plan.png");
 	margin-bottom: 30px;
 }
 .feature-text:hover .img-hover7 {
-	background: url(../image/person-hover5.png);
-	height: 60px;
-	cursor: pointer;
-	background-repeat: no-repeat;
-	background-position: 50%;
+	background: url("../img/icon_plan_hover.png");
 }
 .img-hover8 {
 	background: url(../image/mobile1.png);
-	height: 60px;
-	cursor: pointer;
-	background-repeat: no-repeat;
-	background-position: 50%;
 }
 .feature-text:hover .img-hover8 {
 	background: url(../image/mobile1-hover.png);
-	height: 60px;
+}
+.img-hover1, .feature-text:hover .img-hover1, .img-hover2, .feature-text:hover .img-hover2, .img-hover3, .feature-text:hover .img-hover3, .img-hover4, .feature-text:hover .img-hover4, .img-hover5, .feature-text:hover .img-hover5, .img-hover6, .feature-text:hover .img-hover6, .img-hover7,.feature-text:hover .img-hover7, .img-hover8, .feature-text:hover .img-hover8   {
+    height: 100px;
 	cursor: pointer;
 	background-repeat: no-repeat;
 	background-position: 50%;
+    background-size: 100px auto;
 }
 .quest-text1 {
 	text-align: center;
