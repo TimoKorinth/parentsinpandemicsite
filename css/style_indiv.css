@@ -1,0 +1,24 @@
+.impressum {
+	margin: 0 2em;
+}
+#myNavbar {position: relative}
+.logo_hack {
+	position: absolute;
+	right: 2em;
+	top: 2em;
+	width: 250px;
+}
+.logo_hack img {
+	width: 100%;
+	height: auto;
+}
+.logo_parents {
+	position: absolute;
+	left: 1em;
+	top: 1em;
+	width: 200px;
+}
+.logo_parents img {
+	width: 100%;
+	height: auto;
+}

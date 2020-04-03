@@ -44,8 +44,8 @@ h4 {
 	padding-bottom: 0px!important;
 	padding-top: 0px!important;
 	transition: all 0.3s ease;
-	background: #20082a!important;
-	color: white;
+	background: #EBEBEB!important;
+	color: #871515;
 }
 .navbar.scroll-nav .navbar-brand img {
 	width: 100px;
@@ -315,16 +315,37 @@ a:hover {
 .feature-text {
 	padding: 50px;
 	border: 1px solid #ddd;
-	background: #fff;
 	border-radius: 6px;
 	margin-bottom: 30px;
 	transition: all 0.3s ease-in-out;
+}
+/* Hintergründe Kacheln */
+.bg1 {
+	background: #E5DFA0!important;
+}
+.bg2 {
+	background: #B8865B!important;
+}
+.bg3 {
+	background: #C4B650!important;
+}
+.bg4 {
+	background: #71A2C0!important;
+}
+.bg5 {
+	background: #D0C9C1!important;
+}
+.bg6 {
+	background: #9C1919!important;
+}
+.bg7 {
+	background: #C67D73!important;
 }
 .feature-text h4 {
 	margin: 40px 0px
 }
 .feature-text:hover {
-	border-top: 6px solid #fb527a;
+	border-top: 6px solid #005D60;
 	padding-top: 45px;
 	box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
 }
@@ -356,7 +377,7 @@ a:hover {
 	padding: 40px
 }
 .youtube:hover {
-	border-top: 6px solid #e22a2a;
+	border-top: 6px solid #000;
 	padding-top: 35px;
 	box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
 	border-radius: 6px
@@ -381,7 +402,7 @@ a:hover {
 	border-radius: 4px
 }
 .youtube .ytb a {
-	background: #e22a2a;
+	background: #000;
 	color: #fff;
 	font-size: 14px;
 	padding: 12px 16px 12px 0px;
@@ -1506,7 +1527,7 @@ ul.banner-tabs li:hover .card4 {
 	color: #9380a7
 }
 .btn-subscribe {
-	background: #fb527a;
+	background: #85A8AB;
 	color: #fff;
 	margin-left: 10px;
 	padding: 17px 50px;
