@@ -22,3 +22,15 @@
 	width: 100%;
 	height: auto;
 }
+.div-halb {
+    width: 50%!important;
+}
+.partner {
+    background: #e3e2e4!important;
+}
+.partner img {
+    width: 50%;
+}
+.partnerdiv {
+    display: flex;
+}
